@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-family: Montserrat;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 10%, #162229 65%);
+    display: inline;
+}
+
+.mainTitle {
+    display: inline-block;
+    color: red;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+}
+
+.Process-icon {
+    position: absolute;
+    width: 25%;
+    top: 20px;
+    left: 200px;
+}
+
+.dp {
+    width: 25%;
+}
+
+.topnav {
+    background-color: #162229;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: auto;
+}
+
+.Top-Container {
+    position: relative;
+    padding-top: 10px;
+    background-color: #303032;
+    display: inline-block;
+    width: 100%;
+    background-image: url(../images/bg.png);
+    background-size: 100%;
+}
+
+.middle-container {
+    padding-top: 10px;
+    background-color: beige;
+    position: relative;
+    margin-top: auto;
+    display: inline-block;
+    width: 100%;
+}
+
+.paragraphText {
+    color: black;
+}
+
+.regionHeading {
+    color: white;
+    background-color: red;
+    font-weight: bold;
+}
+
+.historyHeading {
+    color: red;
+    font-weight: bold;
+}
+
+.aboutImg {
+    position: relative;
+    width: 100%;
+    right: 40px;
+}
+
+.history {
+    width: 30%;
+}
+
+.bottom-Container {
+    background-color: beige;
+}
+
+.tagline {
+    font-size: 18px;
+    color: white;
+}
+
+.footer {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: Montserrat;
+    color: #98a3a5;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 10%, #162229 65%);
+    display: inline;
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+    font-family: Montserrat;
+    color: #98a3a5;
+}
+
+th {
+    text-align: center;
+    color: #98a3a5;
+}
+
+p {
+    text-align: center;
+    color: #f4f4f9;
+    font-family: Montserrat;
+}
+
+td {
+    image-orientation: auto;
+    text-align: center;
+    color: white;
+    font-family: Montserrat;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    color: white;
+    font-family: Montserrat;
+    list-style-position: inside;
+}
+
+a {
+    color: #98a3a5;
+}
+
+form {
+    color: white;
+}
+
+hr {
+    text-align: center;
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 5%;
+}
